@@ -1,4 +1,8 @@
 Python style guide: https://www.python.org/dev/peps/pep-0008/#naming-conventions
+Learn python: https://automatetheboringstuff.com/2e/chapter2/
+
+Lambda fn in python
+https://towardsdatascience.com/lambda-functions-with-practical-examples-in-python-45934f3653a8
 
 Comprehensive Python Cheatsheet
 ===============================
