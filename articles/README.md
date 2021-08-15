@@ -65,6 +65,10 @@ https://towardsdatascience.com/building-a-multi-label-text-classifier-using-bert
 code:
 https://github.com/javaidnabi31/Multi-Label-Text-classification-Using-BERT/blob/master/multi-label-classification-bert.ipynb
 
+COVID 19 Tweets Analysis (97% accuracy) - GRU
+https://www.kaggle.com/himanshutripathi/covid-19-tweets-analysis-97-accuracy
+https://www.kaggle.com/subbhashit/bert-text-classification
+
 ShortText library in python
 https://shorttext.readthedocs.io/en/latest/index.html
 
